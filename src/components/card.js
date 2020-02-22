@@ -1,9 +1,8 @@
 import React from 'react';
 import {
   Card, CardText, CardBody,
-  CardTitle
+  CardTitle, Button, Col, Row
 } from 'reactstrap';
-import { Button, Col, Row } from 'reactstrap';
 import profilePic from '../files/IMG_2974.jpg'
 
 

@@ -18,7 +18,7 @@ const Project = (props) => {
       <li>Get high level information, such as scientific name and family</li>
       <li>Image recognition using google vision API</li>
       <li>Semantic information using trefle plants API</li>
-      <Button href="https://thirstycactus-frontend.herokuapp.com" color="dark">Check it out!</Button>
+      <Button href="https://thirstycactus-frontend.herokuapp.com" color="dark" className="submitButton">Check it out!</Button>
     
       <br/>
       <br/>
