@@ -23,7 +23,7 @@ const Header = ({ siteTitle }) => (
       }}
     >
         <Row style={{
-          textAlign: 'right'
+          textAlign: 'center'
         }}>
         <Col sm={{ size: 'auto', offset: 9}}>
         <a href="https://www.linkedin.com/in/solveighelland/"
