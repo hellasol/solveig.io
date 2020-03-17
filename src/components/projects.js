@@ -28,7 +28,7 @@ const Project = (props) => {
       <b>A blockchain managed light bulb </b>
       <br></br>
       <br></br>
-      <li>App basen on a solidity smart contract and a Node.js backend</li>
+      <li>App based on a solidity smart contract and a Node.js backend</li>
       <li>Every five minutes, whoever pays the most gets to control the lightbulb</li>
       <li>A market efficient light switch</li>
       <br></br> 
