@@ -28,9 +28,10 @@ const Project = (props) => {
       <b>A blockchain managed light bulb </b>
       <br></br>
       <br></br>
-      <li>App based on a solidity smart contract and a Node.js backend</li>
-      <li>Every five minutes, whoever pays the most gets to control the lightbulb</li>
-      <li>A market efficient light switch</li>
+      <li>App based on solidity smart contracts, web3.js and a Node.js backend</li>
+      <li>Get a free decentralight coin from the faucet and use it to switch on the light</li>
+      <li>Will eventually be connected to a real light bulb!</li>
+      <Button href="https://decentralight.solveig.io" color="dark" className="submitButton">Check it out!</Button>
       <br></br> 
        <br></br>
       </div>

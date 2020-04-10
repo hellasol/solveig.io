@@ -26,6 +26,7 @@ export default function ProfileCard(props) {
     <Button  size="lg" outline color="dark">Java</Button> 
     <Button size="lg" outline color="dark">SQL</Button>
     <Button  size="lg" outline color="dark">Express.js</Button>
+    <Button  size="lg" outline color="dark">Web3.js</Button>
     <Button size="lg" outline color="dark">Spring Boot</Button>
     <Button  size="lg" outline color="dark">CSS</Button> 
     <Button  size="lg" outline color="dark">React.js</Button>
