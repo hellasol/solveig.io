@@ -19,6 +19,7 @@ const Project = (props) => {
       <li>Image recognition using google vision API</li>
       <li>Semantic information using trefle plants API</li>
       <Button href="https://thirstycactus-frontend.herokuapp.com" color="dark" className="submitButton">Check it out!</Button>
+      <p>(Server needs about 20 seconds to load)</p>
     
       <br/>
       <br/>
@@ -28,8 +29,8 @@ const Project = (props) => {
       <b>A blockchain managed light bulb </b>
       <br></br>
       <br></br>
-      <li>App based on solidity smart contracts, web3.js and a Node.js backend</li>
-      <li>Get a free decentralight coin from the faucet and use it to switch on the light</li>
+      <li>A decentralized app based on solidity smart contracts, web3.js, Ethereum and React.js </li>
+      <li>Get a free decentralight coin from the faucet and use it to control the light</li>
       <li>Will eventually be connected to a real light bulb!</li>
       <Button href="https://decentralight.solveig.io" color="dark" className="submitButton">Check it out!</Button>
       <br></br> 
