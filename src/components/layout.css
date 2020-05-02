@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap");
 
 html {
   font-family: sans-serif;
@@ -86,7 +86,6 @@ sup {
 .test {
   border-style: none;
   border-radius: 50%;
-
 }
 svg:not(:root) {
   overflow: hidden;
@@ -231,15 +230,14 @@ h1 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: 'Roboto Condensed', BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  font-family: "Roboto Condensed", BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 3rem;
-  
+
   line-height: 1.1;
   text-align: center;
-
 }
 h2 {
   margin-left: 0;
@@ -251,8 +249,8 @@ h2 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: 'Roboto Condensed', BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-  Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: "Roboto Condensed", BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 1.62671rem;
@@ -268,8 +266,8 @@ h3 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: 'Roboto Condensed', BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-  Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: "Roboto Condensed", BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 1.38316rem;
@@ -285,8 +283,8 @@ h4 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: 'Roboto Condensed', BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-  Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: "Roboto Condensed", BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 1rem;
@@ -303,7 +301,7 @@ h5 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: grey;
-  font-family: 'Roboto Condensed', BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  font-family: "Roboto Condensed", BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
@@ -321,8 +319,8 @@ h6 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: 'Roboto Condensed', BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-  Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: "Roboto Condensed", BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   text-rendering: optimizeLegibility;
   font-size: 0.78405rem;
   line-height: 1.1;
@@ -390,7 +388,7 @@ p {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
-  font-family: 'Roboto Condensed', BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  font-family: "Roboto Condensed", BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 figure {
@@ -505,7 +503,7 @@ address {
 }
 b {
   font-weight: bold;
-  font-family: 'Roboto Condensed', BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  font-family: "Roboto Condensed", BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 strong {
@@ -519,7 +517,7 @@ th {
 }
 li {
   margin-bottom: calc(1.45rem / 2);
-  font-family: 'Roboto Condensed', BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  font-family: "Roboto Condensed", BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 ol li {
@@ -629,19 +627,18 @@ pre tt:after {
 @media only screen and (max-width: 480px) {
   html {
     font-size: 100%;
-    
   }
   .carousel {
-    width:auto;
-    height:auto;
-    }
-    .carousel-item { 
-      width: 100%; 
-    }
+    width: auto;
+    height: auto;
   }
+  .carousel-item {
+    width: 100%;
+  }
+}
 
 .cardText {
-  font-family: 'Roboto Condensed', BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  font-family: "Roboto Condensed", BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
@@ -651,6 +648,6 @@ pre tt:after {
 }
 
 .submitButton {
-  font-family: 'Roboto Condensed', BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-  Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: "Roboto Condensed", BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
